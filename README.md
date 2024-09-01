@@ -15,6 +15,9 @@ Você pode instalar as dependências necessárias com o seguinte comando:
 ```bash
 pip install opencv-python-headless numpy
 ```
+
+## Demostração
+
 <div align="center">
   
 ![2024-08-3121-58-13-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/45f2eef1-219a-48e7-b729-b8db70906a02)
